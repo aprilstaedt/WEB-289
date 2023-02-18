@@ -1,0 +1,37 @@
+body {
+  padding: 20px 50px;
+}
+
+h1 {
+  text-align: center;
+  color: #344D67;
+}
+
+h2 {
+  color: #6ECCAF;
+  background-color: #FAF9F6;
+}
+
+btn {
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 5px;
+  background-color: #344D67;
+  color: white;
+}
+
+a.button-1 {
+  background-color: #6ECCAF;
+  color: #344D67;
+}
+
+a.button-2 {
+  background-color: #ADE792;
+  color: #344D67;
+}
+
+a.btn:hover {
+  background-color: #F3ECB0;
+  color: #344D67;
+}/*# sourceMappingURL=styles.css.map */
